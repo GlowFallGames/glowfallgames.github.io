@@ -40,4 +40,4 @@ jobs:
           app-name: 'TaleMatch3DApp'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42B730A4900B4EFFAD900CB5D239B591 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5652B7D1913447A8A906FED8380AB47 }}
